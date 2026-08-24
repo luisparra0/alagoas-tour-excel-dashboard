@@ -4,7 +4,7 @@ Interactive Excel dashboard developed to analyze sales performance, customer vol
 
 ## Dashboard
 
-![Alagoas Tour Dashboard]()
+![Alagoas Tour Dashboard](Dashboard.png)
 
 ## Project Overview
 
