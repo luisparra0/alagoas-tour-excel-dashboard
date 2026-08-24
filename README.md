@@ -4,7 +4,13 @@ Interactive Excel dashboard developed to analyze sales performance, customer vol
 
 ## Dashboard
 
-![Alagoas Tour Dashboard](Dashboard.png)
+![Alagoas Tour Dashboard](images/Dashboard.png)
+
+## Analysis
+
+The workbook also includes an interactive analysis section with dynamic KPIs and business insights based on the selected sales representative.
+
+![Analysis](images/Insights.png)
 
 ## Project Overview
 
